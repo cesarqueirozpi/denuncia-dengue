@@ -1,2 +1,2 @@
 # denuncia-dengue
-Sistema para denúnciar focas de dengue
+Sistema para denúnciar focos de dengue
